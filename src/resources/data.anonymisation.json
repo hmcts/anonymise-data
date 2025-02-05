@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "eventName" : "hearing_resulted",
+      "fieldsToBeAnonymised": [
+        {"firstName" : "anonymisedString"},
+        {"lastName" : "anonymisedString"},
+        {"dateOfBirth" : "anonymisedDOB"},
+        {"selfDefinedEthnicityDescription" : "anonymisedString"},
+        {"address1" : "anonymisedString"},
+        {"address2" : "anonymisedString"},
+        {"address3" : "anonymisedString"},
+        {"address4" : "anonymisedString"},
+        {"address5" :  "anonymisedString"},
+        {"postcode" : "anonymisedPostcode"},
+        {"wording" : "anonymisedString"},
+        {"mobile" :"anonymisedPhoneNumber"},
+        {"primaryEmail" :"anonymisedEmail"},
+        {"bailConditions" : "anonymisedString"},
+        {"secondaryEmail" : "anonymisedEmail"},
+        {"work" : "anonymisedPhoneNumber"}
+      ]
+    }
+  ]
+}
